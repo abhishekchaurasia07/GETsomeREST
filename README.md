@@ -1,4 +1,5 @@
-# GET some REST!
+# *GET* SOME *REST*!
+
 >6pm IST on September 6<sup>th</sup>, 2020.
 
 Hi! We're glad to know you are coming for our API development workshop. Here are a **list of prerequisite software and packages** that you must have before the workshop starts. We've also included instructions to download and install them where applicable. 
@@ -22,4 +23,5 @@ Download  [Node.js](https://nodejs.org/en/download/) version 12 **LTS** edition.
 Make an account on [Microsoft Azure](https://azure.microsoft.com/en-us/free/) and claim the free 200USD credit and 12 months of free service. We need this to deploy our API. 
 
 😉
+
 [Microsoft Learn Student Ambassadors SRM](https://msclubsrm.in)
