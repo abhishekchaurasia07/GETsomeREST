@@ -20,7 +20,7 @@ Download  [Node.js](https://nodejs.org/en/download/) version 12 **LTS** edition.
 
 ## Azure
 
-Make an account on [Microsoft Azure](https://azure.microsoft.com/en-us/free/) and claim the free 200USD credit and 12 months of free service. We need this to deploy our API. 
+Make an account on [Microsoft Azure](https://azure.microsoft.com/en-us/free/) and claim the free 200USD credit and 12 months of free service. We need this to deploy our API. If you are unable to make an account with the previous link, you can also get an [Azure Student Account](https://azure.microsoft.com/en-us/free/students/).
 
 😉
 
